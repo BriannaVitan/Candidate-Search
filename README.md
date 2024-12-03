@@ -97,7 +97,7 @@ This project was built using a fine grained personal access token on github alon
 
 ## Getting Started
 
-Once completely built, this application will function as a deployed app on Render.
+Once completely built, this application will function as a deployed app on Netlify.
 
 ### Local Installation / Testing
 
