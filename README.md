@@ -1,36 +1,36 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
-[![Forks](https://img.shields.io/github/forks/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
-[![Issues](https://img.shields.io/github/issues/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
+![Forks](https://img.shields.io/github/forks/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
+![Stargazers](https://img.shields.io/github/stars/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
+![Issues](https://img.shields.io/github/issues/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)
 
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/BriannaVitan/Kanban-Board">
+  <a href="https://github.com/BriannaVitan/Github-Candidate-Search">
   <!--  Correct this file path to a logo if you would like one; otherwise, delete this a href -->
   </a>
 
 <!--  Edit App name -->
-  <h3 align="center">Kanban-Board</h3>
+  <h3 align="center">Github Candidate Search </h3>
 
   <p align="center">
   <!--  Edit App description -->
-    This app allows the user to securely access and manage a Kanban board by logging in. This program uses Typescript, Sequalize and Postgress to construct a data base, and a JWT token to validate users. 
+    This application allows employers to find, save and delete randomized employees on Github. The candidates information will include their name, email, username, location, avatar picture, company, and github url. This will help employeers find potential candidates quicker by sorting through and deleting or saving them with these two buttons. If you click on the red button, this allows you to decline,  delete, and remove the candidate and the green button adds the potential candidates to the saved Potential Candidates database. Making the job match a better fit. 
 <!-- PROJECT LOGO -->
 <br />
-    <a href="https://github.com/BriannaVitan/Kanban-Board"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BriannaVitan/Github-Candidate-Search"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- Edit deployment link -->
     <a href="">View Demo(Coming Soon)</a>
     ·
-    <a href="https://github.com/BriannaVitan/Kanban-Board/issues">Report Bug</a>
+    <a href="https://github.com/BriannaVitan/Github-Candidate-Search/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BriannaVitan/Kanban-Board/issues">Request Feature</a>
+    <a href="https://github.com/BriannaVitan/Github-Candidate-Search/issues">Request Feature</a>
 
   </p>
 </div>
@@ -83,16 +83,11 @@ This project was built using Node, Express, PostgreSQL, Sequelize and JWT.
 [![Node.js](https://img.shields.io/badge/Framework-Node.js-ffff00?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
 [![npm](https://img.shields.io/badge/Tool-npm-00ff00?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
-[![Bcrypt](https://img.shields.io/badge/Package-Bcrypt-00ffff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/bcrypt)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-0000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-8000ff?style=plastic&logo=PostgreSQL&logoWidth=10)](https://www.postgresql.org/docs/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?style=plastic&logo=typescript&logoWidth=10)](https://www.typescriptlang.org/)
 [![Dotenv](https://img.shields.io/badge/Package-Dotenv-00b894?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/dotenv)
 [![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=express&logoWidth=10)](https://expressjs.com/)
-[![pg](https://img.shields.io/badge/Package-pg-0984e3?style=plastic&logo=postgresql&logoWidth=10)](https://www.npmjs.com/package/pg)
-[![Sequelize](https://img.shields.io/badge/Package-Sequelize-6c5ce7?style=plastic&logo=sequelize&logoWidth=10)](https://sequelize.org/)
 [![Nodemon](https://img.shields.io/badge/DevDependency-Nodemon-d63031?style=plastic&logo=nodemon&logoWidth=10)](https://www.npmjs.com/package/nodemon)
-[![JWT](https://img.shields.io/badge/Package-JWT-000000?style=plastic&logo=jsonwebtokens&logoWidth=10)](https://jwt.io/)
 
 
 </div>
@@ -108,7 +103,7 @@ Once completely built, this application will function as a deployed app on Rende
 1. Clone the rep 
 
 ```
-git clone https://github.com/BriannaVitan/Kanban-Board
+git clone https://github.com/BriannaVitan/Github-Candidate-Search
 ```
 
 2. Install dependencies
@@ -117,31 +112,20 @@ git clone https://github.com/BriannaVitan/Kanban-Board
 npm i
 ```
 
-3. Build the database
-```
-npm run build
-```
-4. Seed the database
+3. Launch the app in development environment
 
 ```
-npm run seed
+npm run dev
 ```
 
-4. Launch the app in development environment
-
-```
-npm run start
-```
-
-5. Visit app:
+4. Visit app:
 
 [http://localhost:3001/](http://localhost:3001/)
 
 
 
-See the [open issues](https://github.com/BriannaVitan/Kanban-Board/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/BriannaVitan/Github-Candidate-Search/issues) for a full list of proposed features (and known issues).
 
-![alt text](<client/images/Kanban Board.png>)
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -170,11 +154,11 @@ This project is licensed under the MIT license.
 
 Project Links:
 
-[Github Repository](https://github.com/BriannaVitan/Kanban-Board)
+[Github Repository](https://github.com/BriannaVitan/Github-Candidate-Search)
 
 <!-- add your deployment link here -->
 
-[Deployment](https://kanban-board-m40w.onrender.com)
+[Deployment]()
 
 
 
