@@ -57,6 +57,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#project-links">Project Links</a></li>
   </ol>
 </details>
 
@@ -156,13 +157,13 @@ This project is licensed under the MIT license.
 
 
 
-Project Links:
+## Project Links
 
 [Github Repository](https://github.com/BriannaVitan/Github-Candidate-Search)
 
 <!-- add your deployment link here -->
 
-[Deployment]()
+[Deployment](https://github-candidate.netlify.app/)
 
 
 
