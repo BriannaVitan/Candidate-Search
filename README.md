@@ -70,7 +70,7 @@
 <!-- Add video demos using the following format: -->
 <!-- ![Video alt description](directPathOfVideos) -->
 
-This project was built using Node, Express, PostgreSQL, Sequelize and JWT.
+This project was built using a fine grained personal access token on github along with creating the backend files: .env, Api, interface, and pages.  
 
 ### Built With
 
@@ -125,6 +125,10 @@ npm run dev
 
 
 See the [open issues](https://github.com/BriannaVitan/Github-Candidate-Search/issues) for a full list of proposed features (and known issues).
+
+![alt text](<Assets/Github Candidate Search.png>)
+![alt text](<Assets/Potential Candidates.png>)
+
 
 <!-- CONTRIBUTING -->
 
